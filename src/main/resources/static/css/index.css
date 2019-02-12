@@ -1,0 +1,37 @@
+html {
+	font-size: 30px;
+}
+
+figure {
+	position: relative;
+}
+
+figcaption {
+	background-color: rgba(0,0,0, 0.5);
+	bottom: 0.5rem;
+	color: white;
+	position: absolute;
+	width: 100%;
+}
+
+h1 {
+	border: 1em solid red;
+	text-align: center;
+}
+
+img {
+	width: 100%;
+}
+
+.sub-title {
+	background-color: green;
+	color: yellow;
+}
+h2 {
+	background-color: red;
+}
+
+#cat {
+	font-size: 3rem;
+}
+
